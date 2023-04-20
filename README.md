@@ -17,7 +17,7 @@
 ### :woman_technologist: About Me :
 - Recently finished an 800+ hour fullstack Javascript bootcamp
 - Before turning to software development, I studied UX UI, where I found a fascination with the inner workings of the designs I created. 
-- I owe a good amount of my knowledge of how Javascript works to the Google chrome's Source panel
+- I owe a good amount of my knowledge of how Javascript works to Google chrome's Source panel.
 - Fun fact: to balance the software developer lifestyle, I practice ballet! :ballet_shoes:
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -40,3 +40,5 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize" alt="Sequelize" width="50" height="50"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket" alt="Socket" width="50" height="50"/>&nbsp;
 </div>
+   
+
