@@ -10,7 +10,7 @@
 </div>
 
 ### :green_book: Currently Studying:
-- Java
+- Next
 - Typescript
 - Data structures and algorithms
 
