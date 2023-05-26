@@ -13,8 +13,8 @@
 - My Portfolio
 
 ### :green_book: Currently Studying:
-- Next
-- Typescript
+- Vue
+- AWS
 - Data structures and algorithms
 
 ### :woman_technologist: About Me :
