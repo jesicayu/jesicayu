@@ -10,15 +10,15 @@
 </div>
 
 ### :keyboard: Currently Working On:
-- My Portfolio
+- Realistic work life balance
 
 ### :green_book: Currently Studying:
-- Vue
 - AWS
 - Data structures and algorithms
 
 ### :woman_technologist: About Me :
-- Recently finished an 800+ hour fullstack Javascript bootcamp
+- Currently working as a fullstack developer at Hotelinking building software that improves the way hoteliers connect with their guests.
+- Finished an 800+ hour fullstack Javascript bootcamp in 2023
 - Before turning to software development, I studied UX UI, where I found a fascination with the inner workings of the designs I created. 
 - I owe a good amount of my knowledge of how Javascript works to Google chrome's Source panel.
 - Fun fact: to balance the software developer lifestyle, I practice ballet! :ballet_shoes:
