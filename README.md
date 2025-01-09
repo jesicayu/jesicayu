@@ -9,9 +9,6 @@
 </div>
 </div>
 
-### :keyboard: Currently Working On:
-- A realistic work life balance
-
 ### :green_book: Currently Studying:
 - AWS
 - Data structures and algorithms
